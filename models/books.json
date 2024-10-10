@@ -1,0 +1,72 @@
+[
+  {
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "type": "fiction",
+    "isBestSeller": true,
+    "publicationDate": "1960-07-11"
+  },
+  {
+    "title": "1984",
+    "author": "George Orwell",
+    "type": "fiction",
+    "isBestSeller": true,
+    "publicationDate": "1949-06-08"
+  },
+  {
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "type": "fiction",
+    "isBestSeller": true,
+    "publicationDate": "1925-04-10"
+  },
+  {
+    "title": "Batman: Year One",
+    "author": "Frank Miller",
+    "type": "comic",
+    "isBestSeller": false,
+    "publicationDate": "1987-02-01"
+  },
+  {
+    "title": "Watchmen",
+    "author": "Alan Moore",
+    "type": "comic",
+    "isBestSeller": true,
+    "publicationDate": "1986-09-01"
+  },
+  {
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "type": "fiction",
+    "isBestSeller": true,
+    "publicationDate": "1813-01-28"
+  },
+  {
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "type": "fiction",
+    "isBestSeller": true,
+    "publicationDate": "1951-07-16"
+  },
+  {
+    "title": "Sapiens: A Brief History of Humankind",
+    "author": "Yuval Noah Harari",
+    "type": "non-fiction",
+    "isBestSeller": true,
+    "publicationDate": "2011-01-01"
+  },
+  {
+    "title": "Daredevil: Born Again",
+    "author": "Frank Miller",
+    "type": "comic",
+    "isBestSeller": false,
+    "publicationDate": "1986-03-01"
+  },
+  {
+    "title": "Good Omens",
+    "author": "Neil Gaiman and Terry Pratchett",
+    "type": "fiction",
+    "isBestSeller": false,
+    "publicationDate": "1990-05-01"
+  }
+]

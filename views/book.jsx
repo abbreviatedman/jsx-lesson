@@ -1,21 +1,12 @@
 const React = require('react');
 
+const Navbar = require('./navbar');
+
 const Book = (props) => {
   const book = props.book;
   const styles = {
     container: {
       padding: "20px"
-    },
-
-    navbar: {
-      display: "flex",
-      justifyContent: "space-around",
-      marginBottom: "20px",
-    },
-
-    navItem: {
-      textDecoration: "none",
-      color: "#333"
     },
 
     book: {
@@ -32,20 +23,7 @@ const Book = (props) => {
       </head>
       <body>
         <div style={styles.container}>
-          <nav style={styles.navbar}>
-            <a href="/books" style={styles.navItem}>
-              Books
-            </a>
-            <a href="/comics" style={styles.navItem}>
-              Comics
-            </a>
-            <a href="/about" style={styles.navItem}>
-              About
-            </a>
-            <a href="/contact" style={styles.navItem}>
-              Contact
-            </a>
-          </nav>
+          <Navbar />
           <h1>{book.title}</h1>
           <div style={styles.book}>
             <h2>
